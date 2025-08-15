@@ -17,7 +17,8 @@ int main(){
 }
 ```
 
-## My Arsenal ![Anti-air tank](Pasted image 20250815072904.png)
+## <img src="Pasted image 20250815072904.png" alt="Anti-air" width="24"/> My Arsenal
+
 ## 📊 GitHub Stats
 
 [](https://github.com/kassem00#-github-stats)
